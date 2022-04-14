@@ -9,7 +9,7 @@ import {
 
 import { toast } from "react-toastify";
 import { api } from "../services/api";
-import { Product } from "../@types";
+import { Product } from "../types";
 
 interface CartProvideProps {
   children: ReactNode;
