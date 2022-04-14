@@ -9,7 +9,20 @@ import {
 
 import { toast } from "react-toastify";
 import { api } from "../services/api";
-import { Product } from "../types";
+
+export interface Product {
+  id: number;
+  name: string;
+  price: number;
+  score: number;
+  image: string;
+  amount: number;
+}
+
+// interface Stock {
+//   id: number;
+//   amount: number;
+// }
 
 interface CartProvideProps {
   children: ReactNode;
