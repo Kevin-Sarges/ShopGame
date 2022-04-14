@@ -1,5 +1,52 @@
 {
-  "product": [
+  "stock": [
+    {
+      "id": 312,
+      "amount": 5
+    },
+
+    {
+      "id": 201,
+      "amount": 4
+    },
+
+    {
+      "id": 102,
+      "amount": 3
+    },
+
+    {
+      "id": 99,
+      "amount": 2
+    },
+
+    {
+      "id": 12,
+      "amount": 3
+    },
+
+    {
+      "id": 74,
+      "amount": 8
+    },
+
+    {
+      "id": 31,
+      "amount": 3
+    },
+
+    {
+      "id": 420,
+      "amount": 5
+    },
+
+    {
+      "id": 501,
+      "amount": 2
+    }
+  ],
+
+  "products": [
     {
       "id": 312,
       "name": "Super Mario Odyssey",
@@ -7,6 +54,7 @@
       "score": 100,
       "image": "super-mario-odyssey.png"
     },
+
     {
       "id": 201,
       "name": "Call Of Duty Infinite Warfare",
@@ -14,6 +62,7 @@
       "score": 80,
       "image": "call-of-duty-infinite-warfare.png"
     },
+
     {
       "id": 102,
       "name": "The Witcher III Wild Hunt",
@@ -21,6 +70,7 @@
       "score": 250,
       "image": "the-witcher-iii-wild-hunt.png"
     },
+
     {
       "id": 99,
       "name": "Call Of Duty WWII",
@@ -28,6 +78,7 @@
       "score": 205,
       "image": "call-of-duty-wwii.png"
     },
+
     {
       "id": 12,
       "name": "Mortal Kombat XL",
@@ -35,6 +86,7 @@
       "score": 150,
       "image": "mortal-kombat-xl.png"
     },
+
     {
       "id": 74,
       "name": "Shards of Darkness",
@@ -42,6 +94,7 @@
       "score": 400,
       "image": "shards-of-darkness.png"
     },
+
     {
       "id": 31,
       "name": "Terra Média: Sombras de Mordor",
@@ -49,6 +102,7 @@
       "score": 50,
       "image": "terra-media-sombras-de-mordor.png"
     },
+
     {
       "id": 420,
       "name": "FIFA 18",
@@ -56,6 +110,7 @@
       "score": 325,
       "image": "fifa-18.png"
     },
+
     {
       "id": 501,
       "name": "Horizon Zero Dawn",
