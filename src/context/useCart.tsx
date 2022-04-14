@@ -19,11 +19,6 @@ export interface Product {
   amount: number;
 }
 
-// interface Stock {
-//   id: number;
-//   amount: number;
-// }
-
 interface CartProvideProps {
   children: ReactNode;
 }
