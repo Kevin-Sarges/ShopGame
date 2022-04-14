@@ -52,7 +52,7 @@
       "name": "Super Mario Odyssey",
       "price": 197.88,
       "score": 100,
-      "image": "super-mario-odyssey.png"
+      "image": "./src/assets/super-mario-odyssey.png"
     },
 
     {
