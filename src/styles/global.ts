@@ -1,5 +1,5 @@
-import { createGlobalStyle } from "styled-components";
 import "react-toastify/dist/ReactToastify.css";
+import { createGlobalStyle } from "styled-components";
 
 export default createGlobalStyle`
   * {
@@ -10,7 +10,7 @@ export default createGlobalStyle`
   }
 
   body {
-    background: #191920;
+    background: #E1E1E1;
     -webkit-font-smoothing: antialiased;
   }
 
