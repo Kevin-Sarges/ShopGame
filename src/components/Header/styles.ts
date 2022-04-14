@@ -2,17 +2,22 @@ import styled from "styled-components";
 import { Link } from "react-router-dom";
 
 export const Container = styled.header`
-  margin: 50px 0;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
   background: #191920;
 
-  a {
-    transition: opacity 0.2s;
+  .main {
+    max-width: 1020px;
+    margin: 0 auto;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 
-    &:hover {
-      opacity: 0.7;
+    a {
+      transition: opacity 0.2s;
+
+      &:hover {
+        opacity: 0.7;
+      }
     }
   }
 `;
