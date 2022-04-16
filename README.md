@@ -1,5 +1,8 @@
 # ShopGame App
 
+#### Obs: 
+Eu modifiquei o `product.json` implementando um estoque e uma ulr para as imagens da aplicação, nas urls eu utilizei um serviço que eu criei para upload de imagens de produtos para um outro e-commerce(uma aplicação minha para estudos) e ela está no ar, assim facilitou em usar as imagens no `product.json`
+
 Aplicaçõ feita com as seguintes ferramentas:
 
 - TypeScript
